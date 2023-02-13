@@ -1,0 +1,3 @@
+#!/bin/bash
+#print me
+echo "Tony is a good person"
