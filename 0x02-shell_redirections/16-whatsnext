@@ -1,2 +1,2 @@
 #!/bash/bin
-grep -c -i "root" \etc\passwd | head=-3
+grep -c -i "root" \etc\passwd ; head=-3
