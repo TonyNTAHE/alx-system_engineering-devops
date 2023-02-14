@@ -1,2 +1,2 @@
 #!/bin/bash
-wc -l /ect/passwd
+grep -c bin /ect/passwd
