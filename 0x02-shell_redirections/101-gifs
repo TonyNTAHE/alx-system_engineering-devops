@@ -1,0 +1,3 @@
+#!/bin/bash
+find . "*.gif" -type f -printf "%f\n"| sort -z -f | xargs -0 printf "%s\n"
+
